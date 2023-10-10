@@ -1,0 +1,17 @@
+
+
+.container-yt{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    flex-flow: row;
+    flex-wrap: wrap;
+}
+.container-yt2{
+    display: flex;
+    justify-content: center;
+}
+.iframe{
+    display: flex;
+    justify-content: center;
+}
